@@ -1,5 +1,9 @@
 
 ![alt](https://i.ibb.co/W3P61QJ/Make-your-README-1.png)
+##   LANGUAGE & TECHNOLOGIES 
+[![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,html,tailwind,css,firebase,git,github,vercel,netlify,vscode)](https://skillicons.dev)
+
+
 
 - 👋 Hi, I’m @Zubayer-Aurnab
 - 👀 I’m interested in ...
