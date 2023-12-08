@@ -1,3 +1,6 @@
+
+<a href="https://app.daily.dev/zubaeraurnab"><img src="https://api.daily.dev/devcards/30adde8685374544a5e4d14253cdb7d7.png?r=zti" width="400" alt="Zubaer Aurnab's Dev Card"/></a>
+
 - 👋 Hi, I’m @Zubayer-Aurnab
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
