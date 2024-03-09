@@ -1,8 +1,9 @@
 
 ![alt](https://i.ibb.co/W3P61QJ/Make-your-README-1.png)
 ## LANGUAGE & TECHNOLOGIES 
-[![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,html,tailwind,css,firebase,git,github,vercel,netlify,vscode)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=next,react,js,express,nodejs,mongodb,mui,html,tailwind,css,firebase,git,github,vercel,netlify,vscode,npm)](https://skillicons.dev)
+## Familiar
+[![My Skills](https://skillicons.dev/icons?i=redux,mongoose)](https://skillicons.dev)
 ## STATISTIC
 
 ![Zubayer-Aurnab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zubayer-Aurnab&theme=ayu-mirage&hide_border=true)
