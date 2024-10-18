@@ -1,9 +1,9 @@
 
-![alt](https://i.ibb.co.com/23YF1hP/Technology-in-Education-Technology-Presentation-in-Blue-Peach-Illustrative-Style.gif)
+![alt](./assects/Make%20your%20README-1.png)
 ## LANGUAGE & TECHNOLOGIES 
 [![My Skills](https://skillicons.dev/icons?i=next,react,js,express,nodejs,mongodb,mui,html,tailwind,css,firebase,git,github,vercel,netlify,vscode,npm)](https://skillicons.dev)
 ## Familiar
-[![My Skills](https://skillicons.dev/icons?i=redux,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,ts,php)](https://skillicons.dev)
 
 ## STATISTIC
 
