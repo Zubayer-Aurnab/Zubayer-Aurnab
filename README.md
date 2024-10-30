@@ -3,7 +3,7 @@
 ## LANGUAGE & TECHNOLOGIES 
 [![My Skills](https://skillicons.dev/icons?i=next,react,js,express,nodejs,mongodb,mui,html,tailwind,css,firebase,git,github,vercel,netlify,vscode,npm)](https://skillicons.dev)
 ## Familiar
-[![My Skills](https://skillicons.dev/icons?i=redux,ts,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,ts,php,laravel,mysql)](https://skillicons.dev)
 
 ## STATISTIC
 
