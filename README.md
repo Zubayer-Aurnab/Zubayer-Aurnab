@@ -1,9 +1,12 @@
 
 ![alt](./assects/git_banner.gif)
-## LANGUAGE & TECHNOLOGIES 
-[![My Skills](https://skillicons.dev/icons?i=next,react,js,express,nodejs,mongodb,mui,html,tailwind,css,firebase,git,github,vercel,netlify,vscode,npm)](https://skillicons.dev)
-## Familiar
-[![My Skills](https://skillicons.dev/icons?i=redux,ts,php,laravel,mysql)](https://skillicons.dev)
+## Front-End
+[![My Skills](https://skillicons.dev/icons?i=next,react,js,ts,html,tailwind,css,)](https://skillicons.dev)
+## Back-End
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel,mysql)](https://skillicons.dev)
+
+##  TECHNOLOGIES 
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vercel,netlify,vscode,npm,yarn)](https://skillicons.dev)
 
 ## STATISTIC
 
@@ -12,12 +15,3 @@
 ##
 <a href="https://app.daily.dev/zubayeraurnab"><img src="https://api.daily.dev/devcards/v2/fSjzBMrOH6KA72vHInPhQ.png?type=wide&r=kqc" width="652" alt="Zubayer Aurnab's Dev Card"/></a>
  
-
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer) -->
-
-
-<!---
-Zubayer-Aurnab/Zubayer-Aurnab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
