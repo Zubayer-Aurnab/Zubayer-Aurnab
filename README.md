@@ -8,6 +8,9 @@
 ##  TECHNOLOGIES 
 [![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vercel,netlify,vscode,npm,yarn)](https://skillicons.dev)
 
+##  Familiar 
+[![My Skills](https://skillicons.dev/icons?i=python,flask)](https://skillicons.dev)
+
 ## STATISTIC
 
 ![Zubayer-Aurnab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zubayer-Aurnab&theme=ayu-mirage&hide_border=true)
