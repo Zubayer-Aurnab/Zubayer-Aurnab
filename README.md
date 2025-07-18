@@ -8,7 +8,7 @@
 ##  TECHNOLOGIES 
 [![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vercel,netlify,vscode,npm,yarn)](https://skillicons.dev)
 
-##  Familiar 
+##  Learning 
 [![My Skills](https://skillicons.dev/icons?i=python,flask)](https://skillicons.dev)
 
 ## STATISTIC
