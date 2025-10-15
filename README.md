@@ -3,13 +3,13 @@
 ## Front-End
 [![My Skills](https://skillicons.dev/icons?i=next,react,js,ts,html,tailwind,css,)](https://skillicons.dev)
 ## Back-End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,nodejs,express,mongodb,php,laravel,mysql)](https://skillicons.dev)
 
 ##  TECHNOLOGIES 
 [![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vercel,netlify,vscode,npm,yarn)](https://skillicons.dev)
 
 ##  Learning 
-[![My Skills](https://skillicons.dev/icons?i=python,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,flask)](https://skillicons.dev)
 
 ## STATISTIC
 
