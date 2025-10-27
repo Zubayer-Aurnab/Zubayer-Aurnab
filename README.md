@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vercel,netlify,vscode,npm,yarn)](https://skillicons.dev)
 
 ##  Learning 
-[![My Skills](https://skillicons.dev/icons?i=azure,digitalocean)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,nginx)](https://skillicons.dev)
 
 ## STATISTIC
 
